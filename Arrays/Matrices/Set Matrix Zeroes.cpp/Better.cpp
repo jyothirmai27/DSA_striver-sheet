@@ -1,3 +1,6 @@
+Time Complexity - O((N*M) + (N*M))
+Space Complexity - O(N+M)
+    
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
