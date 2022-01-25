@@ -1,3 +1,6 @@
+// Time Complexity - O(nlogn) + O(n)
+// Space Complexity - O(1)
+
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
